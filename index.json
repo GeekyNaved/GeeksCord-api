@@ -64,5 +64,11 @@
       "title": "MongoDB",
       "link1": "https://youtube.com/playlist?list=PL9mB5ptJ4Ze3zq1tYr5E-YV-Mt6pkdG8i",
       "link2": "https://youtu.be/-56x56UppqQ"
-    }
+    },
+      {
+      "id": "12",
+      "title": "React JS Course",
+      "link1": "https://youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ",
+      "link2": "https://youtu.be/w7ejDZ8SWv8"
+    },
   ]
