@@ -66,9 +66,57 @@
       "link2": "https://youtu.be/-56x56UppqQ"
     },
     {
-      "id": "13",
+      "id": "12",
       "title": "React Native",
       "link1": "https://youtu.be/4Cc75EC1IlE",
       "link2": "https://youtu.be/0-S5a0eXPoc"
+    },
+    {
+      "id": "13",
+      "title": "Vue Js",
+      "link1": "https://www.youtube.com/watch?v=s_7LPrBRCaY",
+      "link2": "https://youtu.be/qZXt1Aom3Cs"
+    },
+    {
+      "id": "14",
+      "title": "Angular Js",
+      "link1": "https://youtu.be/0LhBvp8qpro",
+      "link2": "https://youtu.be/k5E2AVpwsko"
+    },
+    {
+      "id": "15",
+      "title": "Flutter Course",
+      "link1": "https://youtu.be/j-LOab_PzzU",
+      "link2": "https://youtu.be/1gDhl4leEzA"
+    },
+    {
+      "id": "16",
+      "title": "Android Development (Java)",
+      "link1": "https://youtu.be/OcT22kdNFvA",
+      "link2": "https://youtu.be/fis26HvvDII"
+    },
+    {
+      "id": "17",
+      "title": "C programming",
+      "link1": "https://youtu.be/ZSPZob_1TOk",
+      "link2": "https://youtu.be/8PopR3x-VMY"
+    },
+    {
+      "id": "18",
+      "title": "C++ programming",
+      "link1": "https://youtu.be/yGB9jhsEsr8",
+      "link2": "https://youtu.be/708eH9l4Slk"
+    },
+    {
+      "id": "19",
+      "title": "Java",
+      "link1": "https://youtu.be/UmnCZ7-9yDY",
+      "link2": "https://youtu.be/8cm1x4bC610"
+    },
+    {
+      "id": "20",
+      "title": "Python",
+      "link1": "https://youtu.be/gfDE2a7MKjA",
+      "link2": "https://youtu.be/_uQrJ0TkZlc"
     }
   ]
